@@ -59,3 +59,6 @@ This project is currently at the prototype stage and represents the final design
 ## Conclusion
 
 This project reflects our effort to design
+
+
+https://www.figma.com/design/LxBXwjTen8WiPd5UziXqzC/Prototype-Design-app?node-id=0-1&t=rEJ9BAQvd6NLdSMo-1
